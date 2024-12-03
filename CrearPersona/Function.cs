@@ -5,6 +5,7 @@ using CrearPersona.Models;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using MySqlConnector;
 
 // Assembly attribute to enable the Lambda function's JSON input to be converted into a .NET class.
 [assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.SystemTextJson.DefaultLambdaJsonSerializer))]
@@ -13,13 +14,13 @@ namespace CrearPersona;
 
 public class Function
 {
-    private readonly IServiceProvider _serviceProvider;
+    private IServiceProvider _serviceProvider;
 
-    public Function()
+    public void InitFunction(CrearPersonaCommand input)
     {
         var services = new ServiceCollection();
-     
-        var connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+
+        var connectionString = String.Format("server={0};user={1};database={2};port={3};password={4}", input.server, input.user, input.database, 3306, input.pass);
         services.AddDbContext<ApplicationDbContext>(options =>
             options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
@@ -40,6 +41,7 @@ public class Function
     {
         try
         {
+            InitFunction(input);
             var mediator = _serviceProvider.GetRequiredService<IMediator>();
             return await mediator.Send(input);
         }

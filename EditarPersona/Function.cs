@@ -13,14 +13,14 @@ namespace EditarPersona;
 
 public class Function
 {
-    private readonly IServiceProvider _serviceProvider;
-    public Function()
+    private IServiceProvider _serviceProvider;
+    public void InitFunction(EditarPersonaCommand input)
     {
         // Configurar el contenedor de dependencias
         var services = new ServiceCollection();
 
         // Configurar DbContext con cadena de conexión desde el entorno
-        var connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+        var connectionString = String.Format("server={0};user={1};database={2};port={3};password={4}", input.server, input.user, input.database, 3306, input.pass);
         services.AddDbContext<ApplicationDbContext>(options =>
             options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
@@ -42,6 +42,7 @@ public class Function
         try
         {
             // Obtener Mediator del contenedor
+            InitFunction(input);
             var mediator = _serviceProvider.GetRequiredService<IMediator>();
 
             // Enviar el comando a través de Mediator

@@ -13,15 +13,15 @@ namespace ConsultarPersona;
 
 public class Function
 {
-    private readonly IServiceProvider _serviceProvider;
+    private IServiceProvider _serviceProvider;
 
-    public Function()
+    public void InitFunction(Server input)
     {
         // Configurar el contenedor de dependencias
         var services = new ServiceCollection();
 
         // Configurar DbContext con cadena de conexión desde el entorno
-        var connectionString = Environment.GetEnvironmentVariable("ConnectionString");
+        var connectionString = String.Format("server={0};user={1};database={2};port={3};password={4}", input.server, input.user, input.database, 3306, input.pass);
         services.AddDbContext<ApplicationDbContext>(options =>
             options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
@@ -38,10 +38,11 @@ public class Function
     /// <param name="input">The event for the Lambda function handler to process.</param>
     /// <param name="context">The ILambdaContext that provides methods for logging and describing the Lambda environment.</param>
     /// <returns></returns>
-    public async Task<List<PersonaResponse>> FunctionHandler(ILambdaContext context)
+    public async Task<List<PersonaResponse>> FunctionHandler(Server input, ILambdaContext context)
     {
         try
         {
+            InitFunction(input);
             var mediator = _serviceProvider.GetRequiredService<IMediator>();
            
             return await mediator.Send(new ConsultarPersonaQuery());

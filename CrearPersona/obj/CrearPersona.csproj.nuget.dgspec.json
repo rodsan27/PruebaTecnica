@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj": {}
+    "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj": {
+    "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj",
+        "projectUniqueName": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj",
         "projectName": "CrearPersona",
-        "projectPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj",
+        "projectPath": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj",
         "packagesPath": "C:\\Users\\Rodsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\obj\\",
+        "outputPath": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\CrearPersona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodsan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj": {}
+    "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj": {
+    "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj",
+        "projectUniqueName": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj",
         "projectName": "EditarPersona",
-        "projectPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj",
+        "projectPath": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj",
         "packagesPath": "C:\\Users\\Rodsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\obj\\",
+        "outputPath": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\EditarPersona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodsan\\AppData\\Roaming\\NuGet\\NuGet.Config",

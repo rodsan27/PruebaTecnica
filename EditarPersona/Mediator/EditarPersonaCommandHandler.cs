@@ -48,7 +48,7 @@ namespace EditarPersona.Mediator
                 Id = persona.Id,
                 Nombre = persona.Nombre,
                 Apellido = persona.Apellido,
-                FechaNacimiento = persona.FechaNacimiento,
+                FechaNacimiento = persona.FechaNacimiento.ToString("yyyy-MM-dd"),
                 Identificacion = persona.Identificacion,
                 CiudadNacimiento = persona.CiudadNacimiento,
                 PaisNacimiento = persona.PaisNacimiento,

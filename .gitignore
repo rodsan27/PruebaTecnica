@@ -1,0 +1,53 @@
+# Visual Studio related
+.vs/
+*.vsidx
+
+# Lambda Test Tool
+*.lambda-test-tool/
+
+# Build outputs
+**/bin/
+**/obj/
+
+# Specific debug and release folders
+**/Debug/
+**/Release/
+
+# Cache files
+*.nuget.cache
+*.AssemblyReference.cache
+*.CoreCompileInputs.cache
+*.BuildWithSkipAnalyzers
+*.Up2Date
+*.cache
+
+# Generated editor configs
+*.GeneratedMSBuildEditorConfig.editorconfig
+
+# Temporary files
+*.dll
+*.pdb
+*.sourcelink.json
+*.ref/
+*.refint/
+*.genruntimeconfig.cache
+
+# Publish profiles
+**/Properties/PublishProfiles/
+
+# User-specific files
+*.csproj.user
+
+# Assembly and build assets
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.assets.cache
+*.editorconfig
+*.g.cs
+*.txt
+
+# R2R (Ready to Run) files
+**/R2R/
+
+# Linux specific publish outputs
+**/linux-x64/

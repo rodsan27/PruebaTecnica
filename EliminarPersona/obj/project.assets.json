@@ -849,11 +849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\EliminarPersona.csproj",
+      "projectUniqueName": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\EliminarPersona\\EliminarPersona.csproj",
       "projectName": "EliminarPersona",
-      "projectPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\EliminarPersona.csproj",
+      "projectPath": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\EliminarPersona\\EliminarPersona.csproj",
       "packagesPath": "C:\\Users\\Rodsan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\obj\\",
+      "outputPath": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\EliminarPersona\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodsan\\AppData\\Roaming\\NuGet\\NuGet.Config",

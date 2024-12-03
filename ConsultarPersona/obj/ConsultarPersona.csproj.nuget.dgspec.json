@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj": {}
+    "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj": {
+    "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj",
+        "projectUniqueName": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj",
         "projectName": "ConsultarPersona",
-        "projectPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj",
+        "projectPath": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj",
         "packagesPath": "C:\\Users\\Rodsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\obj\\",
+        "outputPath": "C:\\Users\\Rodsan\\source\\repos\\Paycah\\PruebaTecnica\\ConsultarPersona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodsan\\AppData\\Roaming\\NuGet\\NuGet.Config",

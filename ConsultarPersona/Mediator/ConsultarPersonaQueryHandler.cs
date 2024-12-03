@@ -26,7 +26,7 @@ namespace ConsultarPersona.Mediator
                 Id = p.Id,
                 Nombre = p.Nombre,
                 Apellido = p.Apellido,
-                FechaNacimiento = p.FechaNacimiento,
+                FechaNacimiento = p.FechaNacimiento.ToString("yyyy-MM-dd"),
                 Identificacion = p.Identificacion,
                 CiudadNacimiento = p.CiudadNacimiento,
                 PaisNacimiento = p.PaisNacimiento
