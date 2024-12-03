@@ -1,0 +1,17 @@
+C:\Users\Rodsan\source\repos\PruebaTecnica\bin\Debug\net8.0\CrearPersona.deps.json
+C:\Users\Rodsan\source\repos\PruebaTecnica\bin\Debug\net8.0\CrearPersona.runtimeconfig.json
+C:\Users\Rodsan\source\repos\PruebaTecnica\bin\Debug\net8.0\CrearPersona.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\bin\Debug\net8.0\CrearPersona.pdb
+C:\Users\Rodsan\source\repos\PruebaTecnica\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPersona.csproj.AssemblyReference.cache
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPersona.AssemblyInfoInputs.cache
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPersona.AssemblyInfo.cs
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPersona.csproj.CoreCompileInputs.cache
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPer.5FC7B23B.Up2Date
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPersona.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\refint\CrearPersona.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPersona.pdb
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\CrearPersona.genruntimeconfig.cache
+C:\Users\Rodsan\source\repos\PruebaTecnica\obj\Debug\net8.0\ref\CrearPersona.dll

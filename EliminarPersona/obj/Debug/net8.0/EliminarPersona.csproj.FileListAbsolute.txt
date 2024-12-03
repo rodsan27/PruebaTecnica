@@ -1,0 +1,17 @@
+C:\Users\Rodsan\source\repos\EliminarPersona\bin\Debug\net8.0\EliminarPersona.deps.json
+C:\Users\Rodsan\source\repos\EliminarPersona\bin\Debug\net8.0\EliminarPersona.runtimeconfig.json
+C:\Users\Rodsan\source\repos\EliminarPersona\bin\Debug\net8.0\EliminarPersona.dll
+C:\Users\Rodsan\source\repos\EliminarPersona\bin\Debug\net8.0\EliminarPersona.pdb
+C:\Users\Rodsan\source\repos\EliminarPersona\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Users\Rodsan\source\repos\EliminarPersona\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\EliminarPersona.csproj.AssemblyReference.cache
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\EliminarPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\EliminarPersona.AssemblyInfoInputs.cache
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\EliminarPersona.AssemblyInfo.cs
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\EliminarPersona.csproj.CoreCompileInputs.cache
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\Eliminar.46446195.Up2Date
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\EliminarPersona.dll
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\refint\EliminarPersona.dll
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\EliminarPersona.pdb
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\EliminarPersona.genruntimeconfig.cache
+C:\Users\Rodsan\source\repos\EliminarPersona\obj\Debug\net8.0\ref\EliminarPersona.dll

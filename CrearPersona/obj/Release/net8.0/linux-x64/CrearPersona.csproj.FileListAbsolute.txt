@@ -1,0 +1,17 @@
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\linux-x64\CrearPersona.deps.json
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\linux-x64\CrearPersona.runtimeconfig.json
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\linux-x64\CrearPersona.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\linux-x64\CrearPersona.pdb
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPersona.csproj.AssemblyReference.cache
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPersona.AssemblyInfoInputs.cache
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPersona.AssemblyInfo.cs
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPersona.csproj.CoreCompileInputs.cache
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPer.5FC7B23B.Up2Date
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPersona.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\refint\CrearPersona.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPersona.pdb
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\CrearPersona.genruntimeconfig.cache
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\obj\Release\net8.0\linux-x64\ref\CrearPersona.dll

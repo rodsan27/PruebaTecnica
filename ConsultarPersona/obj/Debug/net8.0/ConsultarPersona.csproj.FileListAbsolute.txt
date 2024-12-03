@@ -1,0 +1,17 @@
+C:\Users\Rodsan\source\repos\ConsultarPersona\bin\Debug\net8.0\ConsultarPersona.deps.json
+C:\Users\Rodsan\source\repos\ConsultarPersona\bin\Debug\net8.0\ConsultarPersona.runtimeconfig.json
+C:\Users\Rodsan\source\repos\ConsultarPersona\bin\Debug\net8.0\ConsultarPersona.dll
+C:\Users\Rodsan\source\repos\ConsultarPersona\bin\Debug\net8.0\ConsultarPersona.pdb
+C:\Users\Rodsan\source\repos\ConsultarPersona\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Users\Rodsan\source\repos\ConsultarPersona\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ConsultarPersona.csproj.AssemblyReference.cache
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ConsultarPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ConsultarPersona.AssemblyInfoInputs.cache
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ConsultarPersona.AssemblyInfo.cs
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ConsultarPersona.csproj.CoreCompileInputs.cache
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\Consulta.F4F125EA.Up2Date
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ConsultarPersona.dll
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\refint\ConsultarPersona.dll
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ConsultarPersona.pdb
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ConsultarPersona.genruntimeconfig.cache
+C:\Users\Rodsan\source\repos\ConsultarPersona\obj\Debug\net8.0\ref\ConsultarPersona.dll

@@ -1,0 +1,6 @@
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\publish\CrearPersona.deps.json
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\publish\CrearPersona.runtimeconfig.json
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\publish\CrearPersona.pdb
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Rodsan\source\repos\PruebaTecnica\CrearPersona\bin\Release\net8.0\publish\CrearPersona.dll

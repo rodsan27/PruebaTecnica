@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\consultarpersona\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|solutionrelative:consultarpersona\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\crearpersona\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|solutionrelative:crearpersona\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\consultarpersona\\mediator\\consultarpersonaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|solutionrelative:consultarpersona\\mediator\\consultarpersonaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\consultarpersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|solutionrelative:consultarpersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\consultarpersona\\models\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|solutionrelative:consultarpersona\\models\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\crearpersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|solutionrelative:crearpersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\crearpersona\\models\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|solutionrelative:crearpersona\\models\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\editarpersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|solutionrelative:editarpersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\editarpersona\\models\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|solutionrelative:editarpersona\\models\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\eliminarpersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|solutionrelative:eliminarpersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\eliminarpersona\\models\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|solutionrelative:eliminarpersona\\models\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\consultarpersona\\mediator\\consultarpersonaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|solutionrelative:consultarpersona\\mediator\\consultarpersonaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\consultarpersona\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|solutionrelative:consultarpersona\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\editarpersona\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|solutionrelative:editarpersona\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\crearpersona\\mediator\\crearpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|solutionrelative:crearpersona\\mediator\\crearpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\crearpersona\\mediator\\crearpersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|solutionrelative:crearpersona\\mediator\\crearpersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\crearpersona\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|solutionrelative:crearpersona\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\editarpersona\\mediator\\editarpersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|solutionrelative:editarpersona\\mediator\\editarpersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\consultarpersona\\consultarpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75A62E84-70B0-4BC0-A0D9-C609278A216D}|ConsultarPersona\\ConsultarPersona.csproj|solutionrelative:consultarpersona\\consultarpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\eliminarpersona\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|solutionrelative:eliminarpersona\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\eliminarpersona\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|solutionrelative:eliminarpersona\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\eliminarpersona\\mediator\\eliminarpersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|solutionrelative:eliminarpersona\\mediator\\eliminarpersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\eliminarpersona\\mediator\\eliminarpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|solutionrelative:eliminarpersona\\mediator\\eliminarpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\eliminarpersona\\eliminarpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AD1C513-43E8-41FD-8CAA-B66EB852D5CA}|EliminarPersona\\EliminarPersona.csproj|solutionrelative:eliminarpersona\\eliminarpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\editarpersona\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|solutionrelative:editarpersona\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\editarpersona\\mediator\\editarpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|solutionrelative:editarpersona\\mediator\\editarpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\editarpersona\\editarpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{098E5948-5001-40FB-BB49-6ADADEEB3EA6}|EditarPersona\\EditarPersona.csproj|solutionrelative:editarpersona\\editarpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|c:\\users\\rodsan\\source\\repos\\pruebatecnica\\crearpersona\\crearpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85A7FCD1-4781-4369-95A1-49A793CEBC8F}|CrearPersona\\CrearPersona.csproj|solutionrelative:crearpersona\\crearpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Function.cs",
+              "RelativeDocumentMoniker": "ConsultarPersona\\Function.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Function.cs",
+              "RelativeToolTip": "ConsultarPersona\\Function.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwC4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:02:39.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "ConsultarPersona\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Models\\Persona.cs",
+              "RelativeToolTip": "ConsultarPersona\\Models\\Persona.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:56:20.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ConsultarPersona\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ConsultarPersona\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:52:26.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultarPersonaQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Mediator\\ConsultarPersonaQueryHandler.cs",
+              "RelativeDocumentMoniker": "ConsultarPersona\\Mediator\\ConsultarPersonaQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Mediator\\ConsultarPersonaQueryHandler.cs",
+              "RelativeToolTip": "ConsultarPersona\\Mediator\\ConsultarPersonaQueryHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:51:19.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Models\\PersonaResponse.cs",
+              "RelativeDocumentMoniker": "ConsultarPersona\\Models\\PersonaResponse.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Models\\PersonaResponse.cs",
+              "RelativeToolTip": "ConsultarPersona\\Models\\PersonaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:50:29.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultarPersonaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Mediator\\ConsultarPersonaQuery.cs",
+              "RelativeDocumentMoniker": "ConsultarPersona\\Mediator\\ConsultarPersonaQuery.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\Mediator\\ConsultarPersonaQuery.cs",
+              "RelativeToolTip": "ConsultarPersona\\Mediator\\ConsultarPersonaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:50:13.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsultarPersona",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj",
+              "RelativeDocumentMoniker": "ConsultarPersona\\ConsultarPersona.csproj",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\ConsultarPersona\\ConsultarPersona.csproj",
+              "RelativeToolTip": "ConsultarPersona\\ConsultarPersona.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T23:47:30.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "CrearPersona\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Models\\Persona.cs",
+              "RelativeToolTip": "CrearPersona\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:42:51.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Function.cs",
+              "RelativeDocumentMoniker": "EliminarPersona\\Function.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Function.cs",
+              "RelativeToolTip": "EliminarPersona\\Function.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:34:53.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "EliminarPersona\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Models\\Persona.cs",
+              "RelativeToolTip": "EliminarPersona\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:31:12.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EliminarPersona\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EliminarPersona\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:30:45.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EliminarPersonaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Mediator\\EliminarPersonaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EliminarPersona\\Mediator\\EliminarPersonaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Mediator\\EliminarPersonaCommandHandler.cs",
+              "RelativeToolTip": "EliminarPersona\\Mediator\\EliminarPersonaCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:29:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Models\\PersonaResponse.cs",
+              "RelativeDocumentMoniker": "EliminarPersona\\Models\\PersonaResponse.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Models\\PersonaResponse.cs",
+              "RelativeToolTip": "EliminarPersona\\Models\\PersonaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:26:35.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EliminarPersonaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Mediator\\EliminarPersonaCommand.cs",
+              "RelativeDocumentMoniker": "EliminarPersona\\Mediator\\EliminarPersonaCommand.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\Mediator\\EliminarPersonaCommand.cs",
+              "RelativeToolTip": "EliminarPersona\\Mediator\\EliminarPersonaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:25:36.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EliminarPersona",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\EliminarPersona.csproj",
+              "RelativeDocumentMoniker": "EliminarPersona\\EliminarPersona.csproj",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EliminarPersona\\EliminarPersona.csproj",
+              "RelativeToolTip": "EliminarPersona\\EliminarPersona.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T23:23:59.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Function.cs",
+              "RelativeDocumentMoniker": "EditarPersona\\Function.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Function.cs",
+              "RelativeToolTip": "EditarPersona\\Function.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:21:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditarPersonaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Mediator\\EditarPersonaCommand.cs",
+              "RelativeDocumentMoniker": "EditarPersona\\Mediator\\EditarPersonaCommand.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Mediator\\EditarPersonaCommand.cs",
+              "RelativeToolTip": "EditarPersona\\Mediator\\EditarPersonaCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:19:09.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EditarPersona\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EditarPersona\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:37:20.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditarPersonaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Mediator\\EditarPersonaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EditarPersona\\Mediator\\EditarPersonaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Mediator\\EditarPersonaCommandHandler.cs",
+              "RelativeToolTip": "EditarPersona\\Mediator\\EditarPersonaCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:36:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Models\\PersonaResponse.cs",
+              "RelativeDocumentMoniker": "EditarPersona\\Models\\PersonaResponse.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Models\\PersonaResponse.cs",
+              "RelativeToolTip": "EditarPersona\\Models\\PersonaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:35:56.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "EditarPersona\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\Models\\Persona.cs",
+              "RelativeToolTip": "EditarPersona\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:35:46.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditarPersona",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj",
+              "RelativeDocumentMoniker": "EditarPersona\\EditarPersona.csproj",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\EditarPersona\\EditarPersona.csproj",
+              "RelativeToolTip": "EditarPersona\\EditarPersona.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T19:05:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Models\\PersonaResponse.cs",
+              "RelativeDocumentMoniker": "CrearPersona\\Models\\PersonaResponse.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Models\\PersonaResponse.cs",
+              "RelativeToolTip": "CrearPersona\\Models\\PersonaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:36:43.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Function.cs",
+              "RelativeDocumentMoniker": "CrearPersona\\Function.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Function.cs",
+              "RelativeToolTip": "CrearPersona\\Function.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:47:06.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrearPersonaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Mediator\\CrearPersonaCommandHandler.cs",
+              "RelativeDocumentMoniker": "CrearPersona\\Mediator\\CrearPersonaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Mediator\\CrearPersonaCommandHandler.cs",
+              "RelativeToolTip": "CrearPersona\\Mediator\\CrearPersonaCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:41:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrearPersonaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Mediator\\CrearPersonaCommand.cs",
+              "RelativeDocumentMoniker": "CrearPersona\\Mediator\\CrearPersonaCommand.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Mediator\\CrearPersonaCommand.cs",
+              "RelativeToolTip": "CrearPersona\\Mediator\\CrearPersonaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:40:28.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CrearPersona.csproj",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj",
+              "RelativeDocumentMoniker": "CrearPersona\\CrearPersona.csproj",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\CrearPersona.csproj",
+              "RelativeToolTip": "CrearPersona\\CrearPersona.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T04:40:13.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CrearPersona\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rodsan\\source\\repos\\PruebaTecnica\\CrearPersona\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CrearPersona\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:38:32.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
